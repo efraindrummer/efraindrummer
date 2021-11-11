@@ -37,13 +37,20 @@
 <a href="https://getbootstrap.com" target="_blank"> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 </a>
-
 &emsp;
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+<a href="https://www.mysql.com/">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white">
+</a>
 &emsp;
-<a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+<a href="https://www.sqlite.org/">
+  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
+</a>
 &emsp;
-<a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+<a href="https://www.github.com">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white">
+</a>
 &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+<a href="https://firebase.google.com/">
+  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
+</a>
 
