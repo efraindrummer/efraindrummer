@@ -1,11 +1,11 @@
-### Hola Soy Efrain May🤓
+### Hi, I'm Efrain May🤓
 
 <div align="center">
-  <h2>Hola a todos</h2>
+  <h2>About me</h2>
 </div>
 
 <h4 align="center">
-  Desarrollador Web & Mobile, me gusta programar y aprender nuevas tecnologias todo el tiempo😎actualmente me dedico al desarrollo web y tambien practico algo de ciberseguridad,     hacking🧑‍💻servidores 👨‍💻pero en mis tiempos libres me gusta hacer ejercicio💪!!
+  Web & Mobile developer, I like to program and learn new technologies all the time😎 currently I am dedicated to web development and I also practice some cybersecurity, hack servers 👨‍💻but in my free time I like to exercise💪! !
 </h4>
 <br>
 
