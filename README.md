@@ -24,8 +24,7 @@
 &emsp;
 <a href="https://www.python.org" target="_blank">
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-</a>
-<p align="left"> 
+</a> 
 &emsp; 
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -38,4 +37,4 @@
 <a href="https://getbootstrap.com" target="_blank"> 
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
 </a>
-</p>
+
