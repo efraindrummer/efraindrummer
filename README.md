@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/efraindrummer7" target="blank"><img src="https://img.shields.io/twitter/follow/efraindrummer7?logo=twitter&style=for-the-badge" alt="efraindrummer7" /></a> </p>
 
+- 🌱 I’m currently learning **Laravel, Vue & Nest**
+
+- 💬 Ask me about **React, Angular, Flutter**
+
+- 📫 How to reach me **wwifihack@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/efraindrummer7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="efraindrummer7" height="30" width="40" /></a>
@@ -20,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=efraindrummer&show_icons=true&locale=en&layout=compact" alt="efraindrummer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraindrummer&show_icons=true&locale=en" alt="efraindrummer" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efraindrummer&" alt="efraindrummer" /></p>
