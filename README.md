@@ -28,5 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efraindrummer&show_icons=true&locale=en" alt="efraindrummer" /></p>
 
 <h3 align="center">Github Skyline 2021</h3>
-![271862904_4604846602898226_2426866364620147521_n](https://user-images.githubusercontent.com/58404444/151065794-bfafb44c-5efd-47c7-9ae2-56f206180297.jpg)
+
+![skyline](https://user-images.githubusercontent.com/58404444/151065901-fa45ce5d-ce79-4bfc-b5f8-580c78f23cde.jpg)
+
 
