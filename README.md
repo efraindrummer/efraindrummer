@@ -62,14 +62,11 @@ Passionate about technology, programming, love of music and cats
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/efraindrummer/Control-de-acceso-con-NFC" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=efraindrummer&repo=Control-de-acceso-con-NFC&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/efraindrummer/Flutter-DeepLearning-CatDog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=efraindrummer&repo=Flutter-DeepLearning-CatDog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/efraindrummer/Flutter-DeepLearning-CatDog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=efraindrummer&repo=Flutter-DeepLearning-CatDog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/efraindrummer/HeroesApp-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=efraindrummer&repo=HeroesApp-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/efraindrummer/Angular-GifsApp-API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=efraindrummer&repo=Angular-GifsApp-API&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-
-<br />
+<div width="100%" align="center"><a href="https://github.com/efraindrummer/HeroesApp-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=efraindrummer&repo=HeroesApp-Angular&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
