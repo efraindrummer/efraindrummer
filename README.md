@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Efrain May and I'm a Computer Engineer from Cd del carmen</h2>
+<h2 align="left">Hi 👋! My name is Efrain May and I'm a Computer Engineer from Cd del Carmen</h2>
 
 ###
 
