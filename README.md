@@ -14,7 +14,7 @@ He trabajado en proyectos complejos relacionados con sistemas ERP, optimizando p
 Tengo experiencia desarrollando plataformas SaaS y APIs altamente escalables, integrando tecnologías avanzadas como bases de datos espaciales, manejo de caché y optimización de consultas para garantizar alto rendimiento.
 
 🔹 **Freelancer**:  
-He colaborado con clientes de todo el mundo, entregando soluciones personalizadas que impulsan sus negocios y resuelven desafíos específicos.
+He colaborado cpara clientes, entregando soluciones personalizadas que impulsan sus negocios y resuelven desafíos específicos.
 
 🔹 **Desarrollador de Software en Dragados Offshore México**:  
 Actualmente formo parte del equipo de desarrollo de software en Dragados Offshore México, donde utilizo **.NET Framework** para crear soluciones robustas y eficientes que respaldan las operaciones críticas de la empresa en el sector offshore.
