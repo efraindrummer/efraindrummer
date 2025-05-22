@@ -1,5 +1,55 @@
-# 💫 About Me:
-💻 Desarrollador Senior en Tecnologías Web y Móviles | Logistica, Monitoring, ERP y O&M | .NET Developer en Dragados Offshore México<br><br>Soy un apasionado por la tecnologia,cuento con experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas innovadoras. Mi expertise abarca tanto el desarrollo web como móvil, con un enfoque en crear productos funcionales, escalables y centrados en las necesidades del usuario.<br><br>🌟 Experiencia destacada:<br><br>ERP en Logística, Operaciones y Mantenimiento (O&M): He trabajado en proyectos complejos relacionados con sistemas ERP, optimizando procesos logísticos, operativos y de mantenimiento para empresas en diversos sectores.<br>Freelancer: He colaborado con clientes de todo el mundo, entregando soluciones personalizadas que impulsan sus negocios y resuelven desafíos específicos.<br>Desarrollador de Software en Dragados Offshore México: Actualmente, formo parte del equipo de desarrollo de software en Dragados Offshore México, donde utilizo .NET Framework para crear soluciones robustas y eficientes que respaldan las operaciones críticas de la empresa en el sector offshore.<br>📚 Actualmente en proceso de aprendizaje:<br>Estoy profundizando mis conocimientos en .NET Framework , expandiendo mi conjunto de habilidades para abordar proyectos más complejos y diversificados en el ámbito empresarial.<br><br>🎯 Enfoque y valores:<br>Mi objetivo es combinar la tecnología con la creatividad para resolver problemas reales y generar impacto positivo. Me encanta enfrentar nuevos desafíos, aprender continuamente y colaborar con equipos talentosos para construir soluciones que marquen la diferencia.<br><br>🚀 Habilidades principales:<br><br>Desarrollo Web (Frontend/Backend)<br>Desarrollo Móvil<br>Sistemas ERP<br>Optimización de Procesos Logísticos y O&M<br>Metodologías Ágiles<br>Freelance y Trabajo Colaborativo<br>📍 Actualmente trabajando en:<br><br>Dragados Offshore México – Desarrollador de Software en .NET, contribuyendo al desarrollo de soluciones tecnológicas para mejorar la eficiencia y precisión en las operaciones offshore.
+## 💫 About Me:
+💻 **Desarrollador Senior en Tecnologías Web y Móviles | Logística, Monitoreo, ERP y O&M | .NET Developer en Dragados Offshore México**
+
+Soy un apasionado por la tecnología, con amplia experiencia en el diseño, desarrollo e implementación de soluciones innovadoras. Mi expertise abarca tanto el desarrollo web como móvil, con un enfoque en crear productos funcionales, escalables y centrados en las necesidades del usuario.
+
+---
+
+### 🌟 Experiencia Destacada
+
+🔹 **ERP en Logística, Operaciones y Mantenimiento (O&M)**:  
+He trabajado en proyectos complejos relacionados con sistemas ERP, optimizando procesos logísticos, operativos y de mantenimiento para empresas en diversos sectores.
+
+🔹 **Proyectos SaaS y APIs Robustas**:  
+Tengo experiencia desarrollando plataformas SaaS y APIs altamente escalables, integrando tecnologías avanzadas como bases de datos espaciales, manejo de caché y optimización de consultas para garantizar alto rendimiento.
+
+🔹 **Freelancer**:  
+He colaborado con clientes de todo el mundo, entregando soluciones personalizadas que impulsan sus negocios y resuelven desafíos específicos.
+
+🔹 **Desarrollador de Software en Dragados Offshore México**:  
+Actualmente formo parte del equipo de desarrollo de software en Dragados Offshore México, donde utilizo **.NET Framework** para crear soluciones robustas y eficientes que respaldan las operaciones críticas de la empresa en el sector offshore.
+
+🔹 **Trabajo en Empresas como CCONSULTORES y MARDEAMOR**:  
+Como desarrollador web, he contribuido al desarrollo de aplicaciones modernas usando **Next.js**, **Node.js** y **TypeScript**, construyendo interfaces dinámicas y backend escalable para resolver necesidades empresariales.
+
+---
+
+### 📚 Actualmente en proceso de aprendizaje:
+Estoy profundizando mis conocimientos en **.NET Framework**, expandiendo mi conjunto de habilidades para abordar proyectos más complejos y diversificados en el ámbito empresarial.
+
+---
+
+### 🎯 Enfoque y valores:
+Mi objetivo es combinar la tecnología con la creatividad para resolver problemas reales y generar impacto positivo. Me encanta enfrentar nuevos desafíos, aprender continuamente y colaborar con equipos talentosos para construir soluciones que marquen la diferencia.
+
+---
+
+### 🚀 Habilidades principales:
+- Desarrollo Web (Frontend/Backend)  
+- Desarrollo Móvil  
+- Sistemas ERP  
+- Optimización de Procesos Logísticos y O&M  
+- Metodologías Ágiles  
+- Freelance y Trabajo Colaborativo  
+- APIs Restful & GraphQL  
+- Bases de Datos Espaciales y Manejo de Caché  
+- Plataformas SaaS  
+- Arquitectura escalable  
+
+---
+
+### 📍 Actualmente trabajando en:
+**Dragados Offshore México** – Desarrollador de Software en **.NET**, contribuyendo al desarrollo de soluciones tecnológicas para mejorar la eficiencia y precisión en las operaciones offshore.
 
 
 ## 🌐 Socials:
