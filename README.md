@@ -24,8 +24,19 @@ Como desarrollador web, he contribuido al desarrollo de aplicaciones modernas us
 
 ---
 
-### 📚 Actualmente en proceso de aprendizaje:
-Estoy profundizando mis conocimientos en **.NET Framework**, expandiendo mi conjunto de habilidades para abordar proyectos más complejos y diversificados en el ámbito empresarial.
+### 🏗️ Proyectos Destacados
+
+#### 🎯 [Carretino Consultores](https://carretinoconsultores.com.mx )
+Plataforma web enfocada en asesoría empresarial y legal. Desarrollada con **Next.js**, **Node.js** y **TypeScript**, es una solución SaaS diseñada para ofrecer servicios especializados a emprendedores y pequeñas empresas.
+
+![Carretino Consultores - Thumbnail](https://via.placeholder.com/400x200?text=carretinoconsultores.com.mx )
+
+#### 🐬 [Mar de Amor](https://mardeamor.mx )
+Plataforma dedicada al turismo y experiencias únicas en el Caribe Mexicano. Este proyecto se desarrolló bajo una arquitectura moderna con **Next.js**, **APIs RESTful** y base de datos optimizada para manejar reservaciones, paquetes y geolocalización.
+
+![Mar de Amor - Thumbnail](https://via.placeholder.com/400x200?text=mardeamor.mx )
+
+> *Nota: Si tienes capturas reales de pantalla o quieres subirlas a algún repositorio o servicio como Imgur, puedes reemplazar los links de arriba con imágenes reales.*
 
 ---
 
@@ -35,7 +46,7 @@ Mi objetivo es combinar la tecnología con la creatividad para resolver problema
 ---
 
 ### 🚀 Habilidades principales:
-- Desarrollo Web (Frontend/Backend)  
+- Desarrollo Web (Frontend/Backend)  Especialista en todo el Entorno JS
 - Desarrollo Móvil  
 - Sistemas ERP  
 - Optimización de Procesos Logísticos y O&M  
@@ -49,7 +60,7 @@ Mi objetivo es combinar la tecnología con la creatividad para resolver problema
 ---
 
 ### 📍 Actualmente trabajando en:
-**Dragados Offshore México** – Desarrollador de Software en **.NET**, contribuyendo al desarrollo de soluciones tecnológicas para mejorar la eficiencia y precisión en las operaciones offshore.
+**Dragados Offshore México** – Desarrollador de Software en **.NET** migrando tecnologia deprecada la mas Actual, contribuyendo al desarrollo de soluciones tecnológicas para mejorar la eficiencia y precisión en las operaciones offshore cumpliendo los estandares actuales.
 
 
 ## 🌐 Socials:
