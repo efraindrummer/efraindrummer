@@ -24,22 +24,6 @@ Como desarrollador web, he contribuido al desarrollo de aplicaciones modernas us
 
 ---
 
-### 🏗️ Proyectos Destacados
-
-#### 🎯 [Carretino Consultores](https://carretinoconsultores.com.mx )
-Plataforma web enfocada en asesoría empresarial y legal. Desarrollada con **Next.js**, **Node.js** y **TypeScript**, es una solución SaaS diseñada para ofrecer servicios especializados a emprendedores y pequeñas empresas.
-
-![Carretino Consultores - Thumbnail](https://via.placeholder.com/400x200?text=carretinoconsultores.com.mx )
-
-#### 🐬 [Mar de Amor](https://mardeamor.mx )
-Plataforma dedicada al turismo y experiencias únicas en el Caribe Mexicano. Este proyecto se desarrolló bajo una arquitectura moderna con **Next.js**, **APIs RESTful** y base de datos optimizada para manejar reservaciones, paquetes y geolocalización.
-
-![Mar de Amor - Thumbnail](https://via.placeholder.com/400x200?text=mardeamor.mx )
-
-> *Nota: Si tienes capturas reales de pantalla o quieres subirlas a algún repositorio o servicio como Imgur, puedes reemplazar los links de arriba con imágenes reales.*
-
----
-
 ### 🎯 Enfoque y valores:
 Mi objetivo es combinar la tecnología con la creatividad para resolver problemas reales y generar impacto positivo. Me encanta enfrentar nuevos desafíos, aprender continuamente y colaborar con equipos talentosos para construir soluciones que marquen la diferencia.
 
