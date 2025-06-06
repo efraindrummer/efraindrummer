@@ -60,4 +60,7 @@ Mi objetivo es combinar la tecnología con la creatividad para resolver problema
 ---
 [![](https://visitcount.itsvg.in/api?id=efraindrummer&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![Efrain github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=efraindrummer&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
