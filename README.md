@@ -19,8 +19,8 @@ He colaborado cpara clientes, entregando soluciones personalizadas que impulsan 
 🔹 **Desarrollador de Software en Dragados Offshore México**:  
 Actualmente formo parte del equipo de desarrollo de software en Dragados Offshore México, donde utilizo **.NET Framework** para crear soluciones robustas y eficientes que respaldan las operaciones críticas de la empresa en el sector offshore.
 
-🔹 **Trabajo en Empresas como CCONSULTORES y MARDEAMOR**:  
-Como desarrollador web, he contribuido al desarrollo de aplicaciones modernas usando **Next.js**, **Node.js** y **TypeScript**, construyendo interfaces dinámicas y backend escalable para resolver necesidades empresariales.
+🔹 **Trabajos destacados para Empresas como CCONSULTORES, MARDEAMOR, PROFRAME(AGENCIA DE MARKETING) Y COMO CONSULTOR TI PARA DESPLIEGUES EN PLAY STORE Y APP STORE en desarrollo de apps mobiles**:  
+Como desarrollador web, he contribuido al desarrollo de aplicaciones modernas usando **Next.js**, **Flutter**, **Android**, **Node.js** y **TypeScript**, construyendo interfaces dinámicas y backend escalable para resolver necesidades empresariales.
 
 ---
 
