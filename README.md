@@ -9,9 +9,9 @@
 
 <br>
 
-Ingeniero en sistemas computacionales, desarrollador senior full stack. Actualmente en **Dragados Offshore México**, migrando tecnología legacy en .NET hacia arquitecturas modernas para operaciones críticas del sector offshore.
+Ingeniero en Computacion, Maestria en Tecnologias de la Informacion Emergentes(en curso), desarrollador senior full stack. Actualmente en **Dragados Offshore México**, migrando tecnología legacy en .NET hacia arquitecturas modernas para operaciones críticas del sector offshore.
 
-185 repos, un buen puñado con estrellas de gente que no soy yo. Fuera del código soy baterista y hago fotografía aérea con drones — de ahí el "drummer" en el usuario.
+185 repos, un buen puñado con estrellas de gente que no soy yo. Fuera del código soy baterista y hago fotografía aérea con drones — de ahí el "Drums" soy Musico, Productor, amante de la Musica y el buen Cafe.
 
 <br>
 
