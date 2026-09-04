@@ -1,7 +1,7 @@
 <div align="center">
 
 # Efrain May
-### Full Stack Developer Senior · Ciudad del Carmen, Campeche
+### Full Stack Developer Senior
 
 ![Efrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=efraindrummer&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&hide=stars)
 
