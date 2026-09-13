@@ -9,9 +9,9 @@
 
 <br>
 
-Ingeniero en Computación, Maestría en Tecnologías de la Información Emergentes (en curso), desarrollador senior full stack. Actualmente en **Dragados Offshore México**, migrando tecnología legacy en .NET hacia arquitecturas modernas para operaciones críticas del sector offshore.
+Ingeniero en Computación, Maestría en Tecnologías de la Información Emergentes (en curso), Desarrolador Senior Full Stack. Actualmente en **Dragados Offshore México**, migrando tecnología legacy en .NET hacia arquitecturas modernas para operaciones críticas del sector offshore.
 
-185 repos, un buen puñado con estrellas de gente que no soy yo. Fuera del código soy baterista — Músico, Productor, amante de la música y el buen café — y hago fotografía aérea con drones.
+185 repos, un buen puñado con estrellas de gente que no soy yo. Fuera del código soy baterista — Músico, Productor, amante de la música y el buen café — tambien hago fotografía aérea con drones.
 
 <br>
 
@@ -33,8 +33,8 @@ Ingeniero en Computación, Maestría en Tecnologías de la Información Emergent
 🔐 **Control de acceso NFC** — Sistema en PHP que recibe datos de un Arduino cada vez que se pasa una tarjeta programada, y los registra en el servidor. De lo primero que hice conectando hardware con backend.
 `PHP` `Arduino`
 
-🏥 **AdminPro** — Sistema de gestión hospitalaria sobre el stack MEAN completo.
-`Angular` `Node.js` `MongoDB`
+🏥 **AdminPro** — Nuup ERP .
+`Temnplate Engines` `Node.js` `MySQL`
 
 💪 **MasterGYM** — App de administración para gimnasios con backend en Firebase en tiempo real.
 `Angular` `Firebase`
@@ -42,8 +42,8 @@ Ingeniero en Computación, Maestría en Tecnologías de la Información Emergent
 🐾 **Clasificador Cat/Dog** — Modelo de deep learning para clasificación de imágenes, integrado en una app Flutter.
 `Flutter` `Dart` `Deep Learning`
 
-🌐 **Portafolio en Flutter Web** — Mi portafolio personal, construido como aplicación Flutter Web en vez del típico sitio estático.
-`Flutter Web`
+🌐 **Portafolio en NEXT JS** — Mi portafolio personal, construido como aplicación usando SSR en NextJS en vez del típico sitio estático.
+`NextJS`
 
 <br>
 
