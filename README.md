@@ -1,5 +1,5 @@
 ## 💫 About Me:
-💻 **Desarrollador Senior en Tecnologías Web y Móviles | Logística, Monitoreo, ERP y O&M | .NET Developer en Dragados Offshore México**
+💻 **Desarrollador Senior en Tecnologías Web y Móviles | .NET Developer en Dragados Offshore México**
 
 Soy un apasionado por la tecnología, con amplia experiencia en el diseño, desarrollo e implementación de soluciones innovadoras. Mi expertise abarca tanto el desarrollo web como móvil, con un enfoque en crear productos funcionales, escalables y centrados en las necesidades del usuario.
 
@@ -7,8 +7,6 @@ Soy un apasionado por la tecnología, con amplia experiencia en el diseño, desa
 
 ### 🌟 Experiencia Destacada
 
-🔹 **ERP en Logística, Operaciones y Mantenimiento (O&M)**:  
-He trabajado en proyectos complejos relacionados con sistemas ERP, optimizando procesos logísticos, operativos y de mantenimiento para empresas en diversos sectores.
 
 🔹 **Proyectos SaaS y APIs Robustas**:  
 Tengo experiencia desarrollando plataformas SaaS y APIs altamente escalables, integrando tecnologías avanzadas como bases de datos espaciales, manejo de caché y optimización de consultas para garantizar alto rendimiento.
